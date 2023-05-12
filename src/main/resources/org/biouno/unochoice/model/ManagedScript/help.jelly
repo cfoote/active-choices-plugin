@@ -1,0 +1,7 @@
+<?jelly escape-by-default='true' ?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler">
+<div>
+    <p>Use a Managed Groovy script to define the parameter.</p>
+    <p>New files can be added in the <a href="${rootURL}/configfiles">global configuration</a>.</p>
+</div>
+</j:jelly>
